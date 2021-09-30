@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/piggy/static/css/main.14c128a8.chunk.css",
-    "main.js": "/piggy/static/js/main.2d5eab02.chunk.js",
-    "main.js.map": "/piggy/static/js/main.2d5eab02.chunk.js.map",
+    "main.css": "/piggy/static/css/main.8a3d6a73.chunk.css",
+    "main.js": "/piggy/static/js/main.f09cc6fb.chunk.js",
+    "main.js.map": "/piggy/static/js/main.f09cc6fb.chunk.js.map",
     "runtime-main.js": "/piggy/static/js/runtime-main.5057306f.js",
     "runtime-main.js.map": "/piggy/static/js/runtime-main.5057306f.js.map",
     "static/js/2.1fb32103.chunk.js": "/piggy/static/js/2.1fb32103.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.37a4cf81.chunk.js": "/piggy/static/js/3.37a4cf81.chunk.js",
     "static/js/3.37a4cf81.chunk.js.map": "/piggy/static/js/3.37a4cf81.chunk.js.map",
     "index.html": "/piggy/index.html",
-    "static/css/main.14c128a8.chunk.css.map": "/piggy/static/css/main.14c128a8.chunk.css.map",
+    "static/css/main.8a3d6a73.chunk.css.map": "/piggy/static/css/main.8a3d6a73.chunk.css.map",
     "static/js/2.1fb32103.chunk.js.LICENSE.txt": "/piggy/static/js/2.1fb32103.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5057306f.js",
     "static/js/2.1fb32103.chunk.js",
-    "static/css/main.14c128a8.chunk.css",
-    "static/js/main.2d5eab02.chunk.js"
+    "static/css/main.8a3d6a73.chunk.css",
+    "static/js/main.f09cc6fb.chunk.js"
   ]
 }
