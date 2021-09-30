@@ -1,27 +1,27 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
+import Sidebar from './components/sidebar'
+import Introduction from './components/introduction'
+import About from './components/about'
+import Timeline from './components/timeline'
+import Contact from './components/contact'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <h1>My React Application</h1>
-        <h2>Author: Eva</h2>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <div id="colorlib-page">
+        <div id="container-wrap">
+         	<Sidebar></Sidebar>
+				<div id="colorlib-main">
+					<Introduction></Introduction>
+					<About></About>
+					<Timeline></Timeline>
+          <Contact></Contact>
+          	</div>
+      	</div>
+      </div>
+    );
+  }
 }
 
 export default App;
