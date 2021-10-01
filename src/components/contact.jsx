@@ -19,7 +19,7 @@ export default class contact extends Component {
                     <i className="icon-globe-outline" />
                   </div>
                   <div className="colorlib-text">
-                    <p><a href="#">info@domain.com</a></p>
+                    <p><a href="#">info@suja.com</a></p>
                   </div>
                 </div>
                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -27,7 +27,7 @@ export default class contact extends Component {
                     <i className="icon-map" />
                   </div>
                   <div className="colorlib-text">
-                    <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                    <p>223 West 21th Street, Suite 721 India 10016</p>
                   </div>
                 </div>
                 <div className="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
