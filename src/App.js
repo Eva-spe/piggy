@@ -5,6 +5,7 @@ import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
+import Contact from './components/contact'
 
 
 class App extends Component {
@@ -17,7 +18,7 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
 					<Timeline></Timeline>
-          
+          <Contact></Contact>
           	</div>
       	</div>
       </div>
